@@ -3,6 +3,7 @@ This repository contains data, steps, and reference material to complete this ca
 
 ## Documents
 CS3_HOOK: context and importance of this project
+
 CS3_RUBRIC: details on deliverables needed to complete this case study successfully
 
 ## Data
