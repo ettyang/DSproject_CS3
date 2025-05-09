@@ -18,3 +18,7 @@ Data source
 
 ## References
 The provided material may be helpful to understand the background of ocean acidification and time series analysis methods.
+
+"Ocean acidification," National Oceanic and Atmopsheric Administration. February, 2025. https://www.noaa.gov/education/resource-collections/ocean-coasts/ocean-acidification
+
+"Time Series Analysis and Forecasting," GeeksforGeeks. August, 2024. https://www.geeksforgeeks.org/time-series-analysis-and-forecasting/
